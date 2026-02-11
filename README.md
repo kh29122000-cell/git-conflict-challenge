@@ -1,1 +1,3 @@
-# Modif/nan/nat git-conflict-challenge
+
+# Modif/nan/nat git-conflict-challenge - resolved 
+
